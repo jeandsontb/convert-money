@@ -10,6 +10,12 @@
   <img alt="Repository size" src="https://img.shields.io/static/v1?label=Last%20commit&message=August&color=yellowgreen&style=for-the-badge&logo=Slack">
 </p>
 
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Convert Money" title="#Convert Money" src="https://raw.githubusercontent.com/jeandsontb/convert-money/main/screens/convertmoney.png" width="400px">
+  
+  <img alt="Convert Money" title="#Convert Money" src="https://raw.githubusercontent.com/jeandsontb/convert-money/main/screens/convertMoney01.png" width="400px">
+</p>
+
 ## 💻 Sobre o Projeto
 
 CONVERT MONEY - É um projeto para praticar as funcionalidades e testar implementações utilizando o ejs para renderização de páginas e o jest para testes unitários
