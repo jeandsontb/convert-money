@@ -18,7 +18,7 @@
 
 ## 💻 Sobre o Projeto
 
-CONVERT MONEY - É um projeto para praticar as funcionalidades e testar implementações utilizando o ejs para renderização de páginas e o jest para testes unitários
+CONVERT MONEY - É um projeto para praticar as funcionalidades, converter valores de cotação do dólar consumindo a api do banco central usando axios utilizando o ejs para renderização de páginas e o jest para testes unitários
 
 ### Screen
 
@@ -31,6 +31,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Node.js][nodejs]
 - [Ejs][ejs]
 - [Jest][jest]
+- [Axios][axios]
 - [Vscode][vscode]
 
 ## 💡 Como executar o projeto
@@ -63,3 +64,4 @@ Feito com ❤️ por Jeandson Tenorio 👋🏽 [Entre em contato!](https://www.l
 [jest]: https://jestjs.io/pt-BR/
 [ejs]: https://ejs.co/
 [vscode]: https://code.visualstudio.com/
+[axios]: https://www.npmjs.com/package/axios
