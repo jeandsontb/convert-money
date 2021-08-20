@@ -56,3 +56,4 @@ Feito com ❤️ por Jeandson Tenorio 👋🏽 [Entre em contato!](https://www.l
 [nodejs]: https://nodejs.org/
 [jest]: https://jestjs.io/pt-BR/
 [ejs]: https://ejs.co/
+[vscode]: https://code.visualstudio.com/
